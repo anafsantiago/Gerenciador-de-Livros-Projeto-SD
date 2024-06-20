@@ -2,10 +2,10 @@
 ![Logo Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/bcf497a4-9b95-4a67-82b5-5031e47fd6fd)
 
 ## Índice
-* [Imagem de capa](#Imagem-de-capa)
+* [Imagem de capa](#Imagem)
 * [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Descrição do Projeto](#descricao-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstracao-da-aplicacao)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Configuração e Execução do projeto](#configuracao-e-execucao)
 * [Dependências](#dependencias)
