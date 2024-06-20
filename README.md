@@ -1,17 +1,21 @@
-
+<a id="imagem-logo"></a>
 ![Logo Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/bcf497a4-9b95-4a67-82b5-5031e47fd6fd)
 
 ## Índice
-* [Imagem de capa](#Logo)
-* [Índice](#indice)
-* [Descrição do Projeto](#descricao-do-projeto-gerenciador-de-livros)
-* [Funcionalidades](#funcionalidades)
-* [Demonstração da Aplicação](#demonstracao-da-aplicacao)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Configuração](#configuracao)
-* [Execução do projeto](#execucao-do-projeto)
-* [Dependências](#dependencias)
-* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
+1. [Imagem de capa](#imagem-logo)
+2. [Índice](#índice)
+3. [Descrição do Projeto](#descrição-do-projeto-gerenciador-de-livros)
+4. [Funcionalidades](#funcionalidades)
+5. [Demonstração da Aplicação](#demonstração-da-aplicação)
+    1. [Página Inicial](#página-inicial)
+    2. [Página Adicionar](#página-adicionar)
+    3. [Página Excluir](#página-excluir)
+    4. [Página Buscar](#página-buscar)
+6. [Tecnologias utilizadas](#tecnologias-utilizadas)
+7. [Configuração](#configuração)
+    1. [Execução do projeto](#execução-do-projeto)
+9. [Dependências](#dependências)
+10. [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 
 ## Descrição do projeto Gerenciador de Livros 
 Este projeto foi desenvolvido para compor a avaliação A3 na disciplina de Sistemas Distribuídos e Mobile do curso de Sistemas de Informação. Trata-se de um sistema de gerenciamento de livros que permite aos usuários administrarem os seus acervos individuais, oferencendo funcionalidades para adicionar, atualizar, excluir e buscar livros, de modo a possibilitar que os usuários tenham maior controle sobre os seus acervos. Para isso, o Gerenciador de Livros, desenvolvido por meio da linguagem C# e do framework .NET, integra-se à API do Google Books para enriquecer as informações a respeito dos livros e realiza operações de CRUD em um banco de dados local MongoDB. 
