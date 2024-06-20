@@ -1,8 +1,8 @@
-<a id="imagem-logo"></a>
+<a id="logo"></a>
 ![Logo Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/bcf497a4-9b95-4a67-82b5-5031e47fd6fd)
 
 ## Índice
-1. [Imagem de capa](#imagem-logo)
+1. [Imagem de capa](#logo)
 2. [Índice](#índice)
 3. [Descrição do Projeto](#descrição-do-projeto-gerenciador-de-livros)
 4. [Funcionalidades](#funcionalidades)
