@@ -56,15 +56,15 @@ A página Buscar permite que o usuário pesquise se há determinado livro no ban
 * API do Google Books
 
 ## Configuração
-Certifique-se de ter o .NET 4.8 e o MongoDB instalados na sua máquina.
+Verifique se o .NET 4.8 e o MongoDB estão instalados na sua máquina.
 
 ### Execução do projeto
-* Clone este repositório para a sua máquina local
-* Abra o projeto no Visual Studio
+* Realize um clone deste repositório para a sua máquina local
+* Abra o projeto no Visual Studio ou em outro editor de código de sua preferência
 * Execute o projeto
 
 ## Dependências
-Certifique-se de ter as seguintes dependências instaladas:
+Verifique se as seguintes dependências estão instaladas:
 * Newtonsoft.Json
 * MongoDB.Driver
 * MongoDB.Bson
