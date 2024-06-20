@@ -12,6 +12,10 @@ Para isso, o Gerenciador de Livros, desenvolvido por meio da linguagem C# e do f
 * Lista os livros armazenados no banco de dados MongoDB.
 
 ## Demonstração da aplicação
+![Pagina Inicial - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/5d86805a-918f-455c-ba55-bbc3634863b8)
+![Pagina Adicionar - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/3f00b8a4-ce1e-442d-8e8e-952c1a93af3b)
+![Pagina Excluir - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/c247743e-7793-4eff-9dbe-026fd0fe48a8)
+![Pagina Buscar - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/c4f5adbe-14bb-4937-a18c-e2078cc65282)
 
 ## Tecnologias utilizadas
 * C#
