@@ -32,6 +32,10 @@ Certifique-se de ter o .NET 4.8 e o MongoDB instalados na sua máquina.
 * Execute o projeto
 
 ## Dependências
+Certifique-se de ter as seguintes dependências instaladas:
+* Newtonsoft.Json
+* MongoDB.Driver
+* MongoDB.Bson
 
 ## Desenvolvedores
 Ana Flávia Santiago e Roberto Nascimento 
