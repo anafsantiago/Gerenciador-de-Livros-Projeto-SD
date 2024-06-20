@@ -14,9 +14,24 @@ Para isso, o Gerenciador de Livros, desenvolvido por meio da linguagem C# e do f
 * Lista os livros armazenados no banco de dados MongoDB.
 
 ## Demonstração da aplicação
+### Página Inicial
+A página Inicial permite que o usuário escolha entre as opções de pesquisar, adicionar ou excluir livros no sistema Gerenciador de Livros.
+
 ![Pagina Inicial - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/5d86805a-918f-455c-ba55-bbc3634863b8)
+
+### Página Adicionar
+A página Adicionar permite que o usuário adicione um novo livro no banco de dados por meio do código ISBN. Caso o ISBN informado já esteja presente no banco de dados, as informações daquele livro serão atualizadas.
+
 ![Pagina Adicionar - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/3f00b8a4-ce1e-442d-8e8e-952c1a93af3b)
+
+### Página Excluir
+A página Excluir permite que o usuário exclua um livro do banco de dados por meio do código ISBN.
+
 ![Pagina Excluir - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/c247743e-7793-4eff-9dbe-026fd0fe48a8)
+
+### Página Buscar
+A página Buscar permite que o usuário pesquise se há determinado livro no banco de dados e retorna os dados dos livros encontrados. Essa busca pode ser realizada por meio do código ISBN, do título ou do nome do autor.
+
 ![Pagina Buscar - Gerenciador de Livros](https://github.com/anafsantiago/Gerenciador-de-Livros-Projeto-SD/assets/87740921/c4f5adbe-14bb-4937-a18c-e2078cc65282)
 
 ## Tecnologias utilizadas
