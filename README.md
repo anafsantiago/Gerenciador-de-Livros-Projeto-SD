@@ -59,7 +59,7 @@ A página Buscar permite que o usuário pesquise se há determinado livro no ban
 Verifique se o .NET 4.8 e o MongoDB estão instalados na sua máquina.
 
 ### Execução do projeto
-* Realize um clone deste repositório para a sua máquina local
+* Clone este repositório para a sua máquina local
 * Abra o projeto no Visual Studio ou em outro editor de código de sua preferência
 * Execute o projeto
 
