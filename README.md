@@ -18,7 +18,7 @@
 10. [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 
 ## Descrição do projeto Gerenciador de Livros 
-Este projeto foi desenvolvido para compor a avaliação A3 na disciplina de Sistemas Distribuídos e Mobile do curso de Sistemas de Informação. Trata-se de um sistema de gerenciamento de livros que permite aos usuários administrarem os seus acervos individuais, oferencendo funcionalidades para adicionar, atualizar, excluir e buscar livros, de modo a possibilitar que os usuários tenham maior controle sobre os seus acervos. Para isso, o Gerenciador de Livros, desenvolvido por meio da linguagem C# e do framework .NET, integra-se à API do Google Books para enriquecer as informações a respeito dos livros e realiza operações de CRUD em um banco de dados local MongoDB. 
+Este projeto foi desenvolvido para compor a avaliação A3 da disciplina de Sistemas Distribuídos e Mobile do curso de Sistemas de Informação. Trata-se de um sistema de gerenciamento de livros que permite aos usuários administrarem os seus acervos individuais, oferencendo funcionalidades para adicionar, atualizar, excluir e buscar livros, de modo a possibilitar que os usuários tenham maior controle sobre os seus acervos. Para isso, o Gerenciador de Livros, desenvolvido por meio da linguagem C# e do framework .NET, integra-se à API do Google Books para enriquecer as informações a respeito dos livros e realiza operações de CRUD em um banco de dados local MongoDB. 
 
 ## Funcionalidades
 * Adiciona novos livros ao banco de dados MongoDB.
