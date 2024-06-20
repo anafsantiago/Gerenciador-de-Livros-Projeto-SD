@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para compor a avaliação A3 na disciplina de Sist
 * Exclui livros do banco de dados MongoDB.
 * Busca, por ISBN, por título ou por autor, os livros armazenados no banco de dados MongoDB. 
 * Lista os livros armazenados no banco de dados MongoDB.
-* Integra-se à API do Google Books para consumir as informações sobre os livros presentes no banco de dados.
+* Integra-se à API do Google Books para consumir as informações sobre os livros presentes no banco de dados do sistema.
 
 ## Demonstração da aplicação
 ### Página Inicial
